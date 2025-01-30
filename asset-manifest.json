@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohan-kadukar/textUtils-React.git/static/css/main.e6c13ad2.css",
+    "main.js": "/rohan-kadukar/textUtils-React.git/static/js/main.5a475f97.js",
+    "static/js/488.8f3e4787.chunk.js": "/rohan-kadukar/textUtils-React.git/static/js/488.8f3e4787.chunk.js",
+    "index.html": "/rohan-kadukar/textUtils-React.git/index.html",
+    "main.e6c13ad2.css.map": "/rohan-kadukar/textUtils-React.git/static/css/main.e6c13ad2.css.map",
+    "main.5a475f97.js.map": "/rohan-kadukar/textUtils-React.git/static/js/main.5a475f97.js.map",
+    "488.8f3e4787.chunk.js.map": "/rohan-kadukar/textUtils-React.git/static/js/488.8f3e4787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5a475f97.js"
+  ]
+}
